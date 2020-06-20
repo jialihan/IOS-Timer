@@ -1,3 +1,3 @@
 # IOS-Timer
 countdown timer app in IOS
-![image](/cover.png =533x931)
+![image](/cover.png){:height="931px" width="533px"}
